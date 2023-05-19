@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Andreu</h1>
+<h3 align="center">Web Application Development Student at Cesur Mallorca</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreu-martinez-gual-6a103b237/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3082) 
