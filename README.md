@@ -10,7 +10,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=andreumagu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreumagu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="[Picture.svg](https://github-readme-stats.vercel.app/api?username=andreumagu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)" style="display: block; margin: 0 auto" />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=andreumagu&icon=0&color=2)](https://visitcount.itsvg.in)
