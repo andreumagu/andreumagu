@@ -7,8 +7,10 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andreumagu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false){style="display: block; margin: 0 auto"}<br/>
+![](https://github-readme-stats.vercel.app/api?username=andreumagu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreumagu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="[Picture.svg](https://github-readme-stats.vercel.app/api?username=andreumagu&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)" style="display: block; margin: 0 auto" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andreumagu&icon=0&color=2)](https://visitcount.itsvg.in)
