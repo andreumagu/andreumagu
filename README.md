@@ -16,4 +16,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=andreumagu&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=andreumagu&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
