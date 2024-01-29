@@ -13,10 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreumagu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andreumagu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 
 [![](https://visitcount.itsvg.in/api?id=andreumagu&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
